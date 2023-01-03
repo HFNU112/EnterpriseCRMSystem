@@ -11,7 +11,7 @@ Spring + Spring MVC + SpringBoot + MyBatis Plus + MySQL + Redis +Spring Security
 
 1.  页面国际化
 
-
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/29512941/1672756276416-63a4187e-aea1-485b-8dfe-7bb446404742.png#averageHue=%23fefefe&clientId=uef0cf62e-831d-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=325&id=ud60a889f&margin=%5Bobject%20Object%5D&name=image.png&originHeight=837&originWidth=1389&originalType=binary&ratio=1&rotation=0&showTitle=false&size=40441&status=done&style=none&taskId=ue583f388-8d8f-4b4c-b745-5f89a2c20b0&title=&width=540)
 
 2.  系统登录
 
